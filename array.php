@@ -1,4 +1,4 @@
-<?php
+cd/ <?php
 
 require 'function.php';
 home();
